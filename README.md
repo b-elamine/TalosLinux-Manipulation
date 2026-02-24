@@ -84,7 +84,9 @@ talos-hands-on/
 ├── patches/
 ├── create-vms.sh
 ├── bootstrap-cluster.sh
-└── cluster-status.sh
+├── cluster-status.sh
+├── check-roles-max@.sh
+└── network-setup.sh
 ```
 
 ---
