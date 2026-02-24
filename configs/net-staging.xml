@@ -1,0 +1,10 @@
+<network>
+  <name>talos-staging</name>
+  <forward mode='nat'/>
+  <bridge name='virbr-staging' stp='on' delay='0'/>
+  <ip address='192.168.102.1' netmask='255.255.255.0'>
+    <dhcp>
+      <range start='192.168.102.10' end='192.168.102.50'/>
+    </dhcp>
+  </ip>
+</network>
