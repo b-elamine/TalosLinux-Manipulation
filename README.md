@@ -86,6 +86,7 @@ talos-hands-on/
 ├── bootstrap-cluster.sh
 ├── cluster-status.sh
 ├── check-roles-max@.sh
+├── decrypt-files.sh
 └── network-setup.sh
 ```
 
