@@ -1,0 +1,5 @@
+creation_rules:
+  - path_regex: clusters/.*\.(yaml)$
+    age: age1q6azt4cdx5y0htdpwysgnxv9y4wr8q8gdw494vs574vprg9v9ddqnd5ven
+  - path_regex: clusters/.*/talosconfig$
+    age: age1q6azt4cdx5y0htdpwysgnxv9y4wr8q8gdw494vs574vprg9v9ddqnd5ven
